@@ -1,0 +1,33 @@
+Summary: D.A.V.I.D is a voice assistant that listens for your voice and commands. By listening to specific keywords within your command, D.A.V.I.D’s Automatic Virtual Intelligence Design, or D.A.V.I.D for short, will search through the appropriate API to give you a response within seconds.
+
+Directions for Use:
+Navigate to main.py to run the program. 
+Speak clearly and precisely into your computer microphone, making sure not to pause for more than 5 seconds (or D.A.V.I.D will take it that you are finished speaking). 
+D.A.V.I.D will quickly answer your question or execute your command and then ask you if you would like it to do something else for you. 
+
+Features: 
+D.A.V.I.D is linked to Wikipedia, so it can tell you all about any topic you want to know about. 
+D.A.V.I.D has the power of Wolfram Alpha, so whatever question you have, from math and science to geography and history, it will be able to answer it.
+D.A.V.I.D has a built-in to do list, so you can add, remove and read your to do list. This function makes it perfect for you to keep track of your work.
+D.A.V.I.D can tell you what the weather is like in your city or your friend’s across the country.
+Don’t know how to say “I love computer science” in Spanish? D.A.V.I.D can find out.
+
+Some things you can ask D.A.V.I.D:
+“D.A.V.I.D, what is the weather like Pittsburgh?”
+“D.A.V.I.D, what is the square root of 16?”
+“D.A.V.I.D, tell me about the War of 1812.”
+“D.A.V.I.D, can you help me with my 112 homework?”
+“D.A.V.I.D, tell me about Coronavirus.”
+“D.A.V.I.D, add ‘buy eggs’ to my to-do list.”
+“D.A.V.I.D, read me my to do list.”
+“D.A.V.I.D, remove ‘buy eggs’ from my to-do list.”
+
+Modules to import:
+wolframalpha
+speechrecognition
+pyAudio
+pyttsx3 (Text to Speech)
+googletrans (and Translator)
+decimal 
+wikipedia
+urllib (Web Scraping)
